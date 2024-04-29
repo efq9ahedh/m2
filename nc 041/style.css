@@ -1,0 +1,39 @@
+/* Estilos para a página inicial */
+header {
+    background-image: url('space_background.jpg');
+    background-size: cover;
+    color: rgb(217, 7, 7);
+    text-align: center;
+    padding: 100px 0;
+}
+
+nav {
+    background-color: black;
+    color: rgb(56, 225, 18);
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: rgb(0, 194, 78);
+    text-decoration: none;
+}
+
+footer {
+    background-color: black;
+    color: rgb(159, 227, 13);
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
